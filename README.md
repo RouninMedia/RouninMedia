@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `@RouninMedia` aka **ReadyWriteWeb** aka Alan Lansdowne
+- 👋 Hi, I’m `@RouninMedia` aka **ReadyWriteWeb** aka *Alan Lansdowne*
 
 - 👀 I’m interested in
   - cats
