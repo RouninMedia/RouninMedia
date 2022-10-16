@@ -10,6 +10,7 @@
   - identity
   - socio-economics
   - personal finance
+  - long-distance walking
   - long-distance running
   - skiing
   - reading
